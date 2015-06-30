@@ -172,6 +172,7 @@ header {
   font-size: 75px;
   font-weight: bold;
   color: #8E5B30;
+  margin-bottom: 25px;
 }
 
 #faq ul {
@@ -186,10 +187,10 @@ header {
 #faq li {
   background: url("06-30-css-barcamp/assets/part4/plus-bullet.png") left no-repeat; 
   padding-left: 30px; 
-  padding-bottom: 15px;
-  padding-top: 15px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 #treehouse {
-  margin-top: 100px;
+  margin-top: 70px;
 }
