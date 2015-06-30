@@ -160,3 +160,36 @@ header {
   padding-top: 50px;
   padding-bottom: 50px;
 }
+
+#faq {
+  background-color: #CAECF8;
+  padding-top: 10px;
+}
+
+#faq h1 {
+  text-align: center;  
+  font-family: "Arial Black", "Arial Bold", Gadget, sans-serif;  
+  font-size: 75px;
+  font-weight: bold;
+  color: #8E5B30;
+}
+
+#faq ul {
+  list-style: none;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+  font-size: 21px;
+  font-weight: bold;
+  color: #8E5B30;
+  padding-left: 0;
+}
+
+#faq li {
+  background: url("06-30-css-barcamp/assets/part4/plus-bullet.png") left no-repeat; 
+  padding-left: 30px; 
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+#treehouse {
+  margin-top: 100px;
+}
