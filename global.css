@@ -5,3 +5,46 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #2C4947;
+  padding-top: 3px;
+}
+#hero {
+  background-color: #526361; 
+}
+
+#aiga {
+  background-color: #526361;
+  text-align: center;
+}
+
+#register-bird {
+  padding-top: 75px;
+}
+
+#primary {
+  text-align: left;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  margin: 50px;
+  margin-left: 58px;
+}
+
+.part2 {
+  text-align: center;
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  margin: 50px;
+}
+
+#top-h2 {
+  padding-top: 50px;
+  border-top: dashed #E1DAD5 2px;
+  margin-bottom: 0px;
+}
+
+#bottom-h2 {
+  margin-top: 0px;
+}
