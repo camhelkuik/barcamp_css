@@ -87,3 +87,67 @@ header {
   border-top: solid #DFDFDF 2px;
   padding-top: 50px;
 }
+
+.wood {
+  background-image: url("06-30-css-barcamp/assets/part3/wood-bg.png");
+}
+
+#schedule {
+  text-align: center;
+  margin-top: 75px;
+  padding-top: 75px;
+  padding-bottom: 65px;
+}
+
+.events {
+  font-family: "Lucida Bright", Georgia, serif;
+  text-align: center;
+}
+
+.events h1 {
+  color: #F3CE42;
+  font-size: 250%;
+}
+
+.events p {
+  color: #FEFEFE;  
+  font-size: 110%;
+  font-weight: lighter;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+.circle {
+    border-radius: 50%;
+    margin-left: 130px;
+
+    width: 70px;
+    height: 70px;
+    padding: 8px;
+    padding-top: 4px;
+
+    border: 3px solid #D0572B;
+    color: #FEFEFE;
+    text-align: center;
+    font-size: 32px;
+
+    font-family: "Lucida Bright", Georgia, serif;
+}
+
+.times {
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+  color: #FEFEFE;  
+  text-align: center;
+  padding-top: 50px;
+  margin: 20px;
+}
+
+.times p {
+  font-weight: 100;
+}
+
+#fire {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
