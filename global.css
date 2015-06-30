@@ -90,6 +90,7 @@ header {
 
 .wood {
   background-image: url("06-30-css-barcamp/assets/part3/wood-bg.png");
+  padding-bottom: 100px;
 }
 
 #schedule {
@@ -119,19 +120,27 @@ header {
 
 .circle {
     border-radius: 50%;
-    margin-left: 130px;
+    margin-left: auto;
+    margin-right: auto;
 
     width: 70px;
     height: 70px;
     padding: 8px;
-    padding-top: 4px;
+    padding: 4px;
 
     border: 3px solid #D0572B;
-    color: #FEFEFE;
-    text-align: center;
-    font-size: 32px;
+}
 
-    font-family: "Lucida Bright", Georgia, serif;
+.time-font {
+  font-family: "Lucida Bright", Georgia, serif;
+  font-size: 32px;
+  color: #FEFEFE;  
+}
+
+.am-pm {
+  font-family: "Lucida Bright", Georgia, serif;
+  font-size: 14px;
+  color: #FEFEFE; 
 }
 
 .times {
