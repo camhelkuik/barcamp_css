@@ -28,14 +28,22 @@ header {
 
 #primary {
   text-align: left;
-  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
   margin: 50px;
   margin-left: 58px;
 }
 
+#primary h2 {
+  color: #39495E;
+}
+
+#primary p {
+  color: #5C6B73;
+}
+
 .part2 {
   text-align: center;
-  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
   margin: 50px;
 }
 
@@ -43,8 +51,39 @@ header {
   padding-top: 50px;
   border-top: dashed #E1DAD5 2px;
   margin-bottom: 0px;
+  color: #39495E;
 }
 
 #bottom-h2 {
   margin-top: 0px;
+  color: #39495E;
+}
+
+.categories {
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.categories h3 {
+  color: #639C22;
+}
+
+.categories p {
+  color: #755751;
+}
+
+#creative h3{
+  border-top: solid #DFDFDF 2px;
+  padding-top: 50px;
+}
+
+#technology h3{
+  border-top: solid #DFDFDF 2px;
+  padding-top: 50px;
+}
+
+#kitchen h3{
+  border-top: solid #DFDFDF 2px;
+  padding-top: 50px;
 }
