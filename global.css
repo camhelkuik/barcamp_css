@@ -187,10 +187,12 @@ header {
 #faq li {
   background: url("06-30-css-barcamp/assets/part4/plus-bullet.png") left no-repeat; 
   padding-left: 30px; 
-  padding-bottom: 20px;
-  padding-top: 20px;
+  padding-bottom: 25px;
+  padding-top: 25px;
 }
 
 #treehouse {
   margin-top: 70px;
+  position: relative;
+  top: 5px;
 }
